@@ -2,6 +2,8 @@
 
 This repository contains a few examples on how to use the Wii Nunchuck Pro Micro Adapter with the BlueMicro840 to make the Nunchuck into a mouse. 
 
+![alt text](https://github.com/jpconstantineau/WiiNunchuck_Mouse/raw/main/img/Nunchuck_BLE.jpg "Nunchuck_BLE on Windows 10")
+
 | Example | Controller | Connection | Required Libraries |
 | --------| ---------- | ---------- | ------------------ |
 | BlueMicro840_USB_Mouse | BlueMicro840 | USB | Adafruit_TinyUSB, NintendoExtensionCtrl |
